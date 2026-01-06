@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noushid Khan
 
-Senior Odoo Developer with 5+ years of experience working on Odoo versions 12 to 18.
+Senior Odoo Developer with 6+ years of experience working on Odoo versions 12 to 18.
 I specialize in ERP customization, backend development, and scalable business solutions.
 
 Currently transitioning into **DevOps**, focusing on automation, CI/CD, and cloud infrastructure.
