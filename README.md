@@ -36,19 +36,10 @@ Currently transitioning into **DevOps**, focusing on automation, CI/CD, and clou
 - Role-based access
 - Odoo 16 / 17 compatible
 
-🔗 Repo: https://github.com/yourname/odoo-invoice-approval
-
----
-
-### 🔹 Property Management App (React Native)
-- Edit property details
-- Rent & amenities management
-- Unit-level configuration
-
-🔗 Repo: https://github.com/yourname/property-management-app
+🔗 Repo: https://github.com/noushid1997/odoo-attendance-custom
 
 ---
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: noushidkhan22@gmail.com
+- LinkedIn: https://in.linkedin.com/in/noushid-khan-6b99b7189
