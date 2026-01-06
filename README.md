@@ -30,13 +30,23 @@ Currently transitioning into **DevOps**, focusing on automation, CI/CD, and clou
 
 ## 📌 Featured Projects
 
-### 🔹 Odoo Invoice Approval Workflow
-- Multi-level approval system
-- Email notifications
-- Role-based access
-- Odoo 16 / 17 compatible
+### 🔹 Odoo Attendance Connect with Project
+- Link Employee Attendance to Projects
+- Time Tracking for Project Tasks
+- Attendance Reporting per Project
+- Odoo 15 compatible
 
 🔗 Repo: https://github.com/noushid1997/odoo-attendance-custom
+
+### 🔹 Oman currency new symbol
+- Update OMR Currency Symbol
+- Works Across Odoo Modules
+- Load Required Font Automatically
+- Easy Installation & Configuration
+- Odoo 14 / 18 compatible
+
+🔗 Repo: https://apps.odoo.com/apps/modules/18.0/oman_currency_new_symbol
+
 
 ---
 
