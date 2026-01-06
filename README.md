@@ -45,7 +45,7 @@ Currently transitioning into **DevOps**, focusing on automation, CI/CD, and clou
 - Easy Installation & Configuration
 - Odoo 14 / 18 compatible
 
-🔗 Repo: https://apps.odoo.com/apps/modules/18.0/oman_currency_new_symbol
+🔗 App: https://apps.odoo.com/apps/modules/18.0/oman_currency_new_symbol
 
 
 ---
